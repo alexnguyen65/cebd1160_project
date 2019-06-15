@@ -53,9 +53,8 @@ We choose this method because it's simple and the lasso regression estimator is 
 
 There's a correlation between MEDV and these two features: 
 - RM (number of rooms): houses with more rooms will worth more.
+![Scatter of RM vs MDEV](plots/scatter_MEDV_to_RM.png)
 - LSTAT (percentage lower status of the population): neighborhoods with more lower class workers will worth less.
-![Scatter of RM vs MDEV](https://github.com/alexnguyen65/cebd1160_project/tree/master/plots/scatter_MEDV_to_RM.png)
-![Scatter of LSTAT vs MDEV](https://github.com/alexnguyen65/cebd1160_project/tree/master/plots/scatter_MEDV_to_LSTAT.png)
 ![Scatter of LSTAT vs MDEV](plots/scatter_MEDV_to_LSTAT.png)
 
 
