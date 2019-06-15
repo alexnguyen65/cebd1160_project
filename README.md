@@ -56,6 +56,7 @@ There's a correlation between MEDV and these two features:
 - LSTAT (percentage lower status of the population): neighborhoods with more lower class workers will worth less.
 ![Scatter of RM vs MDEV](https://github.com/alexnguyen65/cebd1160_project/tree/master/plots/scatter_MEDV_to_RM.png)
 ![Scatter of LSTAT vs MDEV](https://github.com/alexnguyen65/cebd1160_project/tree/master/plots/scatter_MEDV_to_LSTAT.png)
+![Scatter of LSTAT vs MDEV](plots/scatter_MEDV_to_LSTAT.png)
 
 
 ### Discussion
@@ -68,15 +69,19 @@ Given the high variance on the residuals, we can assume that it is not a robust 
 ### References
 
 [1] TOWARDSDATASCIENCE.COM, Machine Learning Project: Predicting Boston House Prices With Regression, https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d, site visited on June 15, 2019.
+
 [2] TOWARDSDATASCIENCE.COM, Linear Regression on Boston Housing Dataset, https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155, site visited on June 15, 2019.
+
 [3] RITCHIENG.COM, Boston Home Prices Prediction and Evaluation, https://www.ritchieng.com/machine-learning-project-boston-home-prices/, site visited on June 15, 2019.
+
 [4] KAGGLE.COM, Predicting Boston House Prices, https://www.kaggle.com/sagarnildass/predicting-boston-house-prices, site visited on June 15, 2019.
+
 [5] OLEGLEYZ.GITHUB.IO, Model Evaluation and Validation: Predicting Boston Housing Prices, https://olegleyz.github.io/boston_housing.html, site visited on June 15, 2019.
+
 [6] KITMARKS.COM, Project: Predicting Boston Housing Prices, http://kitmarks.com/boston_housing.html, site visited on June 15, 2019.
+
 [7] NEURAL.CZ, Dataset exploration: Boston house pricing, http://www.neural.cz/dataset-exploration-boston-house-pricing.html, site visited on June 15, 2019.
+
 [8] SCIKIT-LEARN.ORG, Choosing the right estimator, https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html, site visited on June 15, 2019.
-
-
-
 
 -------
