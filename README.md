@@ -57,6 +57,9 @@ There's a correlation between MEDV and these two features:
 - LSTAT (percentage lower status of the population): neighborhoods with more lower class workers will worth less.
 ![Scatter of LSTAT vs MDEV](plots/scatter_MEDV_to_LSTAT.png)
 
+But the predictions are not very good. There are high variance on the residuals.
+![Real vs Residual](plots/Real_vs_Residual.png)
+
 
 ### Discussion
 
